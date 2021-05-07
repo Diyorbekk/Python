@@ -6,13 +6,16 @@
 set_1 = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}  # Method - 1 = Set tartibsiz, shuning uchun elementlarning qaysi tartibda paydo bo'lishiga amin bo'lmaysiz. Bir xil qiymatga ega ikkita element birini olib tashlaydi.
 set_2 = set(('apple', 'orange', 'apple', 'pear', 'orange', 'banana'))  # Method - 2
 set_3 = {i for i in range(1, 11)}  # Method - 3
-set_4 = set()  # Method - 4 Empty set
+set_4 = set()  # Method - 4 Empty set - bo'sh set
 
 l_1 = list(range(1, 11))
 set_5 = set(l_1)  # Method - 5
 set_6 = list(set(l_1))  # Method - 6 To list
 
 print(set_1, set_2, set_3, set_4, set_5, set_6, sep='\n')
+
+for i in set_1:  # Set for
+    print(i)
 
 a = set('abracadabra')
 b = set('alacazam')
@@ -30,10 +33,14 @@ set_10 = a ^ b  # set_10 = set.symmetric_difference(a, b)  # Method - 10 element
 # set.pop() - qaytaradi va Set dan birinchi elementni olib tashlaydi. Set larga buyurtma berilmaganligi sababli, qaysi mahsulot birinchi bo'lishini aniq aytish mumkin emas --> # Set - bu tartibsiz va indekslanmagan to'plam.
 # set.clear() - Set ni tozalash
 
+
+
 print(a, b, set_7, set_8, set_9, set_10, sep='\n')
 
 # Set va frozenset o'rtasidagi yagona farq shundaki, bu Set <<O'zgaruvchan ma'lumotlar turi>>, ammo frozenset bunday emas <<O'zgarmas>>.!!! Frozenset da qo'shish,o'chirish va o'zgartirish mumkun emas !!!.
 
 a_frozenset = frozenset('hello')
-a_frozenset.add(b)  # AttributeError: 'frozenset' object has no attribute 'add' - AttributeError: 'frozenset' ob'ektida 'add' atributi yo'q
+# --> a_frozenset.add(b)  # AttributeError: 'frozenset' object has no attribute 'add' - AttributeError: 'frozenset' ob'ektida 'add' atributi yo'q
 print(a_frozenset)
+
+
