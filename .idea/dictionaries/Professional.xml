@@ -2,6 +2,7 @@
   <dictionary name="Professional">
     <words>
       <w>abduqodir</w>
+      <w>agarda</w>
       <w>ajratish</w>
       <w>ajratuvchi</w>
       <w>aksincha</w>
@@ -11,7 +12,11 @@
       <w>alohida</w>
       <w>amin</w>
       <w>aniq</w>
+      <w>aniqlanadi</w>
       <w>aravachaning</w>
+      <w>argumentlar</w>
+      <w>argumentlarni</w>
+      <w>argumentlarning</w>
       <w>arifmetik</w>
       <w>atributi</w>
       <w>ayirib</w>
@@ -24,12 +29,16 @@
       <w>belgilangan</w>
       <w>belgilar</w>
       <w>belgilash</w>
+      <w>belgilashimiz</w>
+      <w>belgilaydi</w>
+      <w>beliglab</w>
       <w>bepul</w>
       <w>beradi</w>
       <w>berilmaganligi</w>
       <w>berish</w>
       <w>bilan</w>
       <w>bilib</w>
+      <w>bilmaymiz</w>
       <w>birdaniga</w>
       <w>biri</w>
       <w>birida</w>
@@ -49,19 +58,32 @@
       <w>bizga</w>
       <w>boshida</w>
       <w>boshidan</w>
+      <w>boshqa</w>
+      <w>boshqarishimizga</w>
       <w>bunday</w>
       <w>butun</w>
       <w>buyurtma</w>
       <w>chapga</w>
+      <w>chaqirganimiz</w>
+      <w>chaqirganimizda</w>
+      <w>chaqirish</w>
+      <w>chaqirishga</w>
+      <w>chaqirmasak</w>
+      <w>chaqirsak</w>
+      <w>chaqiruvi</w>
       <w>cheklaydi</w>
       <w>chiqmaydigan</w>
       <w>dagi</w>
       <w>diyor</w>
       <w>dlrow</w>
+      <w>doim</w>
+      <w>dokumitatsiya</w>
+      <w>dokumtatsiya</w>
       <w>egallaydi</w>
       <w>eksklyuziv</w>
       <w>elementga</w>
       <w>elementlar</w>
+      <w>elementlari</w>
       <w>elementlarini</w>
       <w>elementlarning</w>
       <w>elementni</w>
@@ -78,11 +100,17 @@
       <w>formatlash</w>
       <w>foydalanishga</w>
       <w>funksiya</w>
+      <w>funksiyada</w>
+      <w>funktsiya</w>
+      <w>funktsiyaga</w>
+      <w>funktsiyalarni</w>
+      <w>funktsiyani</w>
       <w>funktsiyasiga</w>
       <w>gorizontal</w>
       <w>gruppa</w>
       <w>gruppalash</w>
       <w>hammasi</w>
+      <w>haqida</w>
       <w>harflada</w>
       <w>harflar</w>
       <w>harflarda</w>
@@ -98,24 +126,36 @@
       <w>holatini</w>
       <w>holda</w>
       <w>hosalarini</w>
+      <w>hujjatlarida</w>
       <w>ichida</w>
       <w>ichki</w>
       <w>ifoda</w>
       <w>ikkala</w>
       <w>ikkalasida</w>
+      <w>ikki</w>
       <w>ikkilik</w>
       <w>ikkilikda</w>
+      <w>ikkinchi</w>
       <w>ikkita</w>
+      <w>ilhom</w>
+      <w>imkon</w>
       <w>indeks</w>
       <w>indekslanmagan</w>
       <w>ishlashga</w>
       <w>ishlatiladi</w>
       <w>ishlatiladigan</w>
+      <w>ishlatsak</w>
+      <w>ishlaydi</w>
+      <w>istisno</w>
       <w>ivanov</w>
       <w>jadval</w>
       <w>jasur</w>
       <w>javobi</w>
       <w>joyni</w>
+      <w>juftlarni</w>
+      <w>juftligini</w>
+      <w>juftliklari</w>
+      <w>kabi</w>
       <w>kamida</w>
       <w>kamroq</w>
       <w>katta</w>
@@ -128,22 +168,30 @@
       <w>kerak</w>
       <w>kerekmas</w>
       <w>kesishma</w>
+      <w>ketligi</w>
+      <w>ketma</w>
       <w>kettlik</w>
       <w>kettma</w>
+      <w>keyingi</w>
       <w>kichik</w>
       <w>kichiklash</w>
       <w>kichikligini</w>
       <w>kiritadi</w>
+      <w>kiriting</w>
       <w>kotta</w>
       <w>kvadratli</w>
       <w>larga</w>
+      <w>laridan</w>
+      <w>larni</w>
       <w>lekin</w>
       <w>mahsulot</w>
       <w>maksimal</w>
       <w>mantiqiy</w>
       <w>markazlashtirilgan</w>
+      <w>masalan</w>
       <w>mavjud</w>
       <w>mavjudmi</w>
+      <w>muammosiz</w>
       <w>mumkin</w>
       <w>mumkun</w>
       <w>natijaga</w>
@@ -155,6 +203,8 @@
       <w>nusxa</w>
       <w>nusxasi</w>
       <w>nusxasini</w>
+      <w>oldin</w>
+      <w>oldindan</w>
       <w>olib</w>
       <w>olish</w>
       <w>olle</w>
@@ -170,6 +220,7 @@
       <w>orqali</w>
       <w>oxirgi</w>
       <w>oxirida</w>
+      <w>oxiridan</w>
       <w>oxiriga</w>
       <w>oxirigacha</w>
       <w>pastga</w>
@@ -178,6 +229,7 @@
       <w>petrov</w>
       <w>positsiya</w>
       <w>positsiyasini</w>
+      <w>pozitsiyasini</w>
       <w>probel</w>
       <w>qarab</w>
       <w>qator</w>
@@ -186,6 +238,7 @@
       <w>qaysi</w>
       <w>qaytadi</w>
       <w>qaytaradi</w>
+      <w>qaytarib</w>
       <w>qaytatdan</w>
       <w>qaytishi</w>
       <w>qidirish</w>
@@ -193,12 +246,17 @@
       <w>qilib</w>
       <w>qilinadi</w>
       <w>qilingan</w>
+      <w>qilinsa</w>
+      <w>qilish</w>
+      <w>qilmaydi</w>
+      <w>qisqartiriladi</w>
       <w>qiymat</w>
       <w>qiymatga</w>
       <w>qiymati</w>
       <w>qiymatidan</w>
       <w>qiymatiga</w>
       <w>qiymatini</w>
+      <w>qiymatlar</w>
       <w>qiymatni</w>
       <w>qoganlarini</w>
       <w>qoldiq</w>
@@ -217,6 +275,7 @@
       <w>shablonni</w>
       <w>shart</w>
       <w>shartlar</w>
+      <w>shuncha</w>
       <w>shundaki</w>
       <w>shuning</w>
       <w>sidorov</w>
@@ -224,19 +283,24 @@
       <w>sikl</w>
       <w>siljish</w>
       <w>siljiydi</w>
+      <w>sizga</w>
       <w>soni</w>
       <w>soniga</w>
       <w>sonini</w>
       <w>standart</w>
+      <w>standartni</w>
       <w>stendlar</w>
       <w>stringi</w>
       <w>substringning</w>
       <w>sukut</w>
+      <w>takrorlanadigan</w>
       <w>takrorlanish</w>
       <w>taqdirda</w>
       <w>taqdirdagina</w>
       <w>tartibda</w>
+      <w>tartibini</w>
       <w>tartibsiz</w>
+      <w>tarzda</w>
       <w>tashash</w>
       <w>tashashlash</w>
       <w>tashlangan</w>
@@ -254,33 +318,44 @@
       <w>tenglash</w>
       <w>tengligini</w>
       <w>teskari</w>
+      <w>toplomadingiz</w>
       <w>topshiriq</w>
+      <w>toptingiz</w>
       <w>tozalash</w>
       <w>tozalaydi</w>
       <w>tugmachalar</w>
       <w>turi</w>
       <w>turlaridan</w>
+      <w>turli</w>
       <w>tushirvorishi</w>
       <w>uchun</w>
       <w>ular</w>
       <w>ularning</w>
       <w>unda</w>
+      <w>urunishda</w>
+      <w>urunush</w>
+      <w>ushbu</w>
       <w>ustiga</w>
       <w>usulda</w>
       <w>usuli</w>
       <w>uzunligi</w>
+      <w>vaziyatlarni</w>
       <w>versiyadagi</w>
       <w>vertikal</w>
       <w>voqea</w>
+      <w>xabar</w>
       <w>xato</w>
+      <w>xatolarga</w>
       <w>xatosi</w>
       <w>xatosini</w>
       <w>yagona</w>
       <w>yana</w>
       <w>yangi</w>
+      <w>yangilaydi</w>
       <w>yaratadi</w>
       <w>yaratmaydi</w>
       <w>yengi</w>
+      <w>yig</w>
       <w>yoki</w>
       <w>yolg</w>
       <w>yordamida</w>
